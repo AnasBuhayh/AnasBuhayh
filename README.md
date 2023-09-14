@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnasBuhayh
-- 👀 I’m interested in user experience research and design
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in crowdfunding and recommender systems
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on philanthropic projects
 - 📫 You can reach me on anas.buhayh@colorado.edu
 
